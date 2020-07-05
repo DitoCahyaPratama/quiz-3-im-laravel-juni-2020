@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Sanbercode
+                    <img src="{{ asset('/erd.png') }}">
                 </div>
 
                 <div class="links">
